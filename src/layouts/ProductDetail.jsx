@@ -19,7 +19,7 @@ const ProductDetail = () => {
   };
 
   useEffect(() => {
-    getDetailProduct(id);
+    getDetailProduct(id); 
   }, [id]);
 
   return (

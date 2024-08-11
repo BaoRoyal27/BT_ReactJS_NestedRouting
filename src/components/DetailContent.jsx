@@ -15,4 +15,4 @@ const DetailContent = ({ product }) => {
   );
 };
 
-export default DetailContent;
+export default DetailContent; 

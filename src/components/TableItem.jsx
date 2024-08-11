@@ -13,7 +13,7 @@ const TableItem = ({ product, deleteProduct }) => {
       </td>
       <td>{product.price}$</td>
       <td>{product.type}</td>
-      <td>
+      <td> 
         <div className="text-orange-400 flex gap-3 w-full justify-center">
           <NavLink
             to={`/product-management/form-product/${product.id}?type=edit`}

@@ -44,4 +44,4 @@ const TableProduct = ({ products, deleteProduct }) => {
   );
 };
 
-export default TableProduct;
+export default TableProduct; 

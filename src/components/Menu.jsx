@@ -13,7 +13,7 @@ const Menu = () => {
               `w-full block p-2 rounded-md text-orange-400 font-medium ${
                 isActive ? "text-white bg-orange-400" : ""
               }`
-            }
+            } 
           >
             Products
           </NavLink>

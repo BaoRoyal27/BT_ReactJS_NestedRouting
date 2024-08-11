@@ -82,4 +82,4 @@ const ProductManage = () => {
   );
 };
 
-export default ProductManage;
+export default ProductManage; 
